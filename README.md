@@ -1,4 +1,5 @@
 # Public Domain Characters Repository
+![alt text](Dracula.jpg "dracula")
 
 This repository is a collection of public domain characters (free copyright) that are free to use. I hope this repo can boost AI content creation, storytelling, art, and more. 
 
